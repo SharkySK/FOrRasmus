@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello My friend 
 
 Hello there
+=======
+Hello My friend
+
+this is before you did stuff and its on a test branch 
+>>>>>>> 6518ed91aab99a20b2e95f21d434018657e89aed
